@@ -5,7 +5,7 @@ const apiList = "https://raw.githubusercontent.com/shahadat-sahu/SAHU-API/refs/h
 const getMainAPI = async () => (await axios.get(apiList)).data.simsimi;
 
 module.exports.config = {
-  name: "autoreplybot",
+  name: "FYNEX BOT",
   version: "2.0.0",
   hasPermssion: 0,
   credits: "APON",
@@ -107,7 +107,7 @@ module.exports.handleReply = async function ({ api, event, handleReply }) {
           name: module.exports.config.name,
           messageID: info.messageID,
           author: event.senderID,
-          type: "sahu"
+          type: "APON"
         });
       },
       event.messageID
