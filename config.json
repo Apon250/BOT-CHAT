@@ -1,12 +1,24 @@
 {
-  "Author": "SHAHADAT SAHU",
-  "version": "2.0.0",
+  "Author": " APON",
+  "version": "2.0.0",language": "en",
+  "DeveloperMode": false,
+  "autoCreateDB":rsion": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
   "autoCreateDB": true,
   "autoClean": true,
-  "allowInbox": false,
-  "notiGroup": true,
+  "allowInbox": falsyour password",
+  "OTPKEY": "",
+  "BOTNAME": "FYNEX 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "PREFIX": "/",
+  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+
+  "ADMINBOT": [
+    "100001039692046",
+    "61586663640809",
+    "100044713412032"
+  ],
+  "NDH": "notiGroup": true,
   "NOTIFICATION": true,
   "EMAIL": "your email",
   "PASSWORD": "your password",
