@@ -1,8 +1,8 @@
 module.exports.config = {
-    name: "ckbot",
+    name: "FYNEXbot",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔",
+    credits: "APON",
     description: "DESCRIPTION ABOUT BOT",
     commandCategory: "Media",
     usages: "",
