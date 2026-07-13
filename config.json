@@ -1,5 +1,5 @@
 {
-  "Author": " APON",
+  "Author": "APON",
   "version": "2.0.0","language": "en",
   "DeveloperMode": false,
   "autoCreateDB":"rsion":""2.0.0",
@@ -9,7 +9,7 @@
   "autoClean": true,
   "allowInbox": "falsyour password",
   "OTPKEY": "",
-  "BOTNAME": "FYNEX CHAT 𝐁𝐨𝐭",
+  "BOTNAME": "FYNEX CHAT BOT",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
